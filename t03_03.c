@@ -26,6 +26,7 @@ int main() {
         }
     }
     
+    
     double average = (double)sum / n;
     
     int count_above_avg = 0;
